@@ -1,4 +1,4 @@
-# Fiort-Softwar
+# Fiort-Software
 
 Welcome to this simple Python tool with a user-friendly interface built using the tkinter library. Its purpose? To help you tidy up your cluttered files by sorting them based on their creation date or file types.
 
